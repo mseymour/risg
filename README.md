@@ -23,11 +23,12 @@ Despite the similar name, this is a completely new project, and not a port of PI
 - Automatic aliasing of nicks by tracking `/nick` and alias only if said nick was in use for a day or more(*?*)
 - Basic terminal output of data before moving onto page generation (*for verification*)
 - HTML5 page generator
+  - Does it *have* to be all static? And what about dealing with css/images/etc.?
   - `<canvas>`-based charts
     - fallback?
   - page generation options?
   - nice design, but should be fairly simple.
-  - *Alternative stats generation?* (*Do we really need anything but HTML?*)
+  - *Alternative stats generation? Plain text file? JSON?* (*Do we really need anything but HTML?*)
 - Provide a binary that accepts a config file for loading settings; if not, the binary should not run, and provide an error message.
   - Config file. (*Custom DSL? That would be super neat.*)
     - Global options for parsing and generating the page?
