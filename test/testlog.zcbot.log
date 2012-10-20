@@ -1,0 +1,21 @@
+09/05/2012 18:35:59 :Azure!~az@unaffiliated/azure PRIVMSG ##shakesoda :Normal message
+09/05/2012 18:36:07 :Azure!~az@unaffiliated/azure PRIVMSG ##shakesoda :ACTION action message
+09/05/2012 18:36:18 :Azure!~az@unaffiliated/azure KICK ##shakesoda Gisey :kick message
+09/05/2012 18:36:28 :Gisey!~gisey@unaffiliated/azure/bot/aiko JOIN ##shakesoda
+09/05/2012 18:36:29 :ChanServ!ChanServ@services. MODE ##shakesoda +o Gisey
+09/05/2012 18:36:29 :Gisey!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :NOTICE [Aiko] [##shakesoda] Nope.
+09/05/2012 18:36:43 :Gisey!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :PRIVMSG [Azure] ~part ##shakesoda part message
+09/05/2012 18:36:44 :Gisey!~gisey@unaffiliated/azure/bot/aiko PART ##shakesoda :"Azure"
+09/05/2012 18:36:52 :Gisey!~gisey@unaffiliated/azure/bot/aiko JOIN ##shakesoda
+09/05/2012 18:36:52 :Gisey!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :ADMIN [Azure] Attempt to join ##shakesoda by Azure...
+09/05/2012 18:36:53 :ChanServ!ChanServ@services. MODE ##shakesoda +o Gisey
+09/05/2012 18:36:53 :Gisey!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :NOTICE [Aiko] [##shakesoda] Nope.
+09/05/2012 18:37:10 :cameron.freenode.net PONG cameron.freenode.net :0
+09/05/2012 18:37:59 :Gisey!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :PRIVMSG [Azure] ~nick gisey2
+09/05/2012 18:37:59 :Gisey!~gisey@unaffiliated/azure/bot/aiko NICK :gisey2
+09/05/2012 18:37:59 :gisey2!~gisey@unaffiliated/azure/bot/aiko PRIVMSG ##shakesoda :ADMIN [Azure] My nick got changed from Gisey to Gisey by Azure
+09/05/2012 18:37:59 :cameron.freenode.net 311 Aiko gisey2 ~gisey unaffiliated/azure/bot/aiko * :Giselle Collette Vingt
+09/05/2012 18:38:00 :cameron.freenode.net 319 Aiko gisey2 :@##shakesoda 
+09/05/2012 18:38:00 :cameron.freenode.net 312 Aiko gisey2 cameron.freenode.net :Vilnius, Lithuania, EU
+09/05/2012 18:38:00 :cameron.freenode.net 671 Aiko gisey2 :is using a secure connection
+09/05/2012 18:38:00 :cameron.freenode.net 317 Aiko gisey2 0 1346712122 :seconds idle, signon time
